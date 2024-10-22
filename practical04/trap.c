@@ -19,7 +19,7 @@ int main() {
     }
     
     // Multiply the area by (pi/3) / (2*(12)) after converting it to radians
-    float mult_rad = (M_PI((b_deg-a)/(2 * N)))/180.0;
+    float mult_rad = (M_PI*((b_deg-a)/(2 * N)))/180.0;
     area = mult_rad * area;
 
 
