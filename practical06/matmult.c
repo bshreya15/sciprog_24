@@ -15,21 +15,21 @@ int main(void){
     // Adding elements in matrix A equal to i+j
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < p; j++) {
-            A[i][j] = ((i)+1)+((j)+1);
+            A[i][j] = i+j;
         }
     }
 
     // Adding elements in matrix B equal to i-j
     for (int i = 0; i < p; i++) {
         for (int j = 0; j < q; j++) {
-            B[i][j] = (i+1)-(j+1);
+            B[i][j] = i-j;
         }
     }
 
     // Adding elements in matrix C equal to AxB
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < q; j++) {
-            for (int k = 0; k < q; k++) {
+            for (int k = 0; k < p; k++) {
                 C[i][j] += A[i][k] * B[k][j]; // Multiply and accumulate
             }
         }
@@ -38,7 +38,7 @@ int main(void){
     printf("Matrix A \n");
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < p; j++) {
-            printf("%.2f ", A[i][j]);
+            printf("%1.0f ", A[i][j]);
         }
         printf("\n");
     }
@@ -46,7 +46,7 @@ int main(void){
     printf("\nMatrix B \n");
     for (int i = 0; i < p; i++) {
         for (int j = 0; j < q; j++) {
-            printf("%.2f ", B[i][j]);
+            printf("%1.0f ", B[i][j]);
         }
         printf("\n");
     }
@@ -54,7 +54,7 @@ int main(void){
     printf("\nMatrix C \n");
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < q; j++) {
-            printf("%.4f ", C[i][j]);
+            printf("%1.0f ", C[i][j]);
         }
         printf("\n");
     }
