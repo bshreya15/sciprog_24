@@ -2,10 +2,14 @@
 #include <stdio.h>
 
 int main(void) {
+   /* Declare int variables */
    int num1, num2, error;
 
+   /* User inputs */
    printf("Please input two positive integers\n");
    error = scanf("%d %d",&num1,&num2);
+
+   /* Check user inputs before operation */
    if (error != 2) {
      printf("Please try again\n");
      return 1;
@@ -17,6 +21,8 @@ int main(void) {
    }
 
    printf(" You entered %d and %d\n",num1,num2);
+
+   /* Check and print if the nums are even/odd */
    if (num1%2 == 0) {
       printf(" num1 is even and");
    } else {
