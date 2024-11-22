@@ -20,13 +20,36 @@ int isMagicSquare(int ** square, const int n) {
     int M = (n * (n*n + 1))/2;
 
     int i, j;
+    int rowSum = 0, colSum = 0;
     // TODO: Checking that every row and column add up to M
-
+    for (int i = 0; i < n; i++)
+    {
+        rowSum = 0;
+        colSum = 0;
+        for (int j = 0; j < n; j++)
+        {
+            rowSum += square[i][j];
+            colSum += square[j][i];
+        }
+        if(rowSum != M || colSum != M){
+            return 0;
+        }
+    }
+    
 
     // TODO: Checking that the main and secondary
     // diagonals each add up to M
-    // If passed all checks, it is a magic square
+    int diagSum =0, secDiagSum=0;
+    for(i=0;i<n;i++){
+        diagSum += square[i][i];
+        secDiagSum += square[i][n-i-1];
+    }
 
+    if(diagSum != M || secDiagSum != M){
+        return 0;
+    }
+
+    // If passed all checks, it is a magic square
 
     return 1;
 }

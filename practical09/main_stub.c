@@ -17,21 +17,47 @@ int main(){
     int n = getlines(filename);
 
     // TODO: Open the file 
-
+    f = fopen(filename,"r");
 
     int i;
     // TODO: Allocating a matrix for storing the magic square
     // as an array of pointers, where each pointer is a row 
-
-
+    int **magicSquare = (int **)malloc(n *sizeof(int *));
+    for (int i = 0; i < n; i++)
+    {
+        magicSquare[i] = (int *)malloc(n * sizeof(int));
+    }
+    
     // TODO:inputting integer data into the matrix;
+    int j;
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = 0; j < n; j++)
+        {
+            fscanf(f,"%d",&magicSquare[i][j]);
+        }
+        
+    }
 
+    int isMagicSq = isMagicSquare(magicSquare,n);
 
+    if(isMagicSq){
+        printf("This is a magic square \n");
+    }
+    else{
+        printf("This is not a magic square \n");
+    }
+    
     // TODO: Freeing each row separately before freeing the array of pointers
-
+    for (int i = 0; i < n; i++)
+    {
+        free(magicSquare[i]);
+    }
+    
+    free(magicSquare);
 
     // TODO:Close the file
-
+    fclose(f);
 
     return 0;
 }  
