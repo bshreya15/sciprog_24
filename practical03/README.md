@@ -1,9 +1,9 @@
 # Files:
 ## area.c
 This program file helps in finding the integral of 
-f(x) = tan(x)from 0→π/3. 
+f(x) = tan(x)from 0→π/3. <br>
 
-Then compare with the actual result: 
+Then compare with the actual result: <br>
 $$ \int_0^{\frac{\pi}{3}} tan(x) , dx = log(2)$$
 
 ### Steps:

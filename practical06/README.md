@@ -9,6 +9,6 @@ This program file helps in finding the matrix multiplication of two matrices.
 4. Print all the matrices.
 
 ## folder Step6
-In this folder we implement the same matrix multiplication as above.
-The main intension is to separate the matmult function from main file.
-To keep the code and logic clean
+In this folder we implement the same matrix multiplication as above.<br>
+The main intension is to separate the matmult function from main file.<br>
+To keep the code and logic clean<br>

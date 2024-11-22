@@ -1,3 +1,45 @@
+commit a3141aaae2417cc9d5c69c602b7b1c29e0d1c4bf
+Merge: ac57ee5 f8469d3
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Fri Nov 22 22:43:27 2024 +0000
+
+    Merge pull request #9 from bshreya15/review
+    
+    Review
+
+commit f8469d39dab7b23cd3fb703973955900ca91e91c
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Fri Nov 22 22:42:42 2024 +0000
+
+    all practical readme
+
+commit 4d36b8d36e5744fc82efd489953468de5d7cad92
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Fri Nov 22 21:47:03 2024 +0000
+
+    updated main readme
+
+commit ab9c5e94e0c96655e04ea30ab6bfbbc84cbee352
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Fri Nov 22 21:46:04 2024 +0000
+
+    updated main readme
+
+commit ac57ee56ba358fea659de59bef35bf32c986cd26
+Merge: 9b973ca bafbbd5
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Fri Nov 22 21:29:38 2024 +0000
+
+    Merge pull request #8 from bshreya15/git_files
+    
+    git log and git status text file
+
+commit bafbbd5e0b689dec60ae6c8d70c43040ad55c4f9
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Fri Nov 22 21:28:51 2024 +0000
+
+    git log and git status text file
+
 commit 9b973ca1b14c80da2987f060a76b5eb8ece5035e
 Merge: 7b1e2ee 97212c2
 Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>

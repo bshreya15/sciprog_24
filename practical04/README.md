@@ -2,8 +2,6 @@
 ## trap.c
 This program file helps in finding the values of tan(x) where x is in radians in the range [0,60] every five degrees.
 
-
-
 ### Steps:
 1. Use loop counter to generate the degree angles.
 2. Use function to generate the radian values.

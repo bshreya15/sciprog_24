@@ -1,15 +1,15 @@
 # Git Assignment
 
-Name: Shreya Bakshi
-Student id : 24203440
-University College Dublin
+Name: Shreya Bakshi <br>
+Student id : 24203440 <br>
+University College Dublin <br>
 
 This repository contains ICHEC practical solutions.
 
 ## Project Structure 
-Each folder is named as practicalxx - indicating the practical index
-Each practitcalxx folder contains C programming solution to respective week's problem statement.
-Each practitcalxx folder contains `README.md` description of week's problem statement.
+Each folder is named as practicalxx - indicating the practical index <br>
+Each practitcalxx folder contains C programming solution to respective week's problem statement.<br>
+Each practitcalxx folder contains `README.md` description of week's problem statement.<br>
 
 ## Useful commands to run code :
 
