@@ -20,7 +20,7 @@ Each practitcalxx folder contains `README.md` description of week's problem stat
   Go to your local directory where files are present
   $scp filename.c id@sciprog.training.ichec.ie:~/.
 
-4. login to sciprog
+3. login to sciprog
 
 ### File Manipulation:
 1. Move copied file from system to a different location in Sciprog - mv filename.c location/
@@ -51,7 +51,7 @@ Each practitcalxx folder contains `README.md` description of week's problem stat
     $gcc -o file_name file_name.c -lm
 
 ### Execution -
-8. Execute output executable file - $ ./executable_file_name
+1. Execute output executable file - $ ./executable_file_name
 
 ### Extra comments -
 1. ** Restart shell if made changes in bash files
