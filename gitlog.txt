@@ -1,0 +1,164 @@
+commit 9b973ca1b14c80da2987f060a76b5eb8ece5035e
+Merge: 7b1e2ee 97212c2
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Fri Nov 22 21:17:42 2024 +0000
+
+    Merge pull request #7 from bshreya15/practical09
+    
+    Practical09
+
+commit 97212c2d6ceee0a7b22fad16a23f0c52d89ab41c
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Fri Nov 22 21:16:53 2024 +0000
+
+    practical 09
+
+commit e8284fe0bcf1f6127c6cb453386be3bd1eb29bf1
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Fri Nov 22 20:51:48 2024 +0000
+
+    initial setup
+
+commit 7b1e2ee3f4c0df25d850bd4bf0d3babadd20c14f
+Merge: e743ca3 8ea2594
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Sun Nov 17 09:15:08 2024 +0000
+
+    Merge pull request #6 from bshreya15/review
+    
+    added comments
+
+commit 8ea25949007593a128b5c54917b78d7bca10c2aa
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Sun Nov 17 09:14:26 2024 +0000
+
+    added comments
+
+commit e743ca34650dab625d735643351745a0a70246eb
+Merge: 69d9256 5cbcc12
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Sun Nov 17 08:52:25 2024 +0000
+
+    Merge pull request #5 from bshreya15/practical08
+    
+    practical08 gcd.c
+
+commit 5cbcc12396ec874430934c7f367d0bbe73ef3616
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Sun Nov 17 08:49:32 2024 +0000
+
+    practical08 gcd.c
+
+commit 69d9256219a3d18bb5ca8dd4b09d28fed14d4e20
+Merge: 892f912 fb837f0
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Thu Nov 7 12:20:15 2024 +0000
+
+    Merge pull request #4 from bshreya15/practical07
+    
+    practical07 C files
+
+commit fb837f0e7af9285bb610bf315554b6b5e7b74196
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Thu Nov 7 12:19:27 2024 +0000
+
+    practical07 C files
+
+commit 892f9120d24ad52143ad7cc0637307aebca6e8bf
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Thu Nov 7 11:17:00 2024 +0000
+
+    Create README.md
+
+commit 45c4fa14d9f1c2f6f15015b9f6d84a6a42b9d82c
+Merge: 26cecb6 11f1b81
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Fri Nov 1 18:31:03 2024 +0000
+
+    Merge pull request #3 from bshreya15/practical06
+    
+    Practical06
+
+commit 11f1b816edc557857c4fb5e53f7f5af1d245657a
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Fri Nov 1 18:30:26 2024 +0000
+
+    separating logic from main file
+
+commit 36bac5def070c6af8c4987653cf0d99804eb2508
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Fri Nov 1 17:22:21 2024 +0000
+
+    fixed typo
+
+commit 26cecb629e881760d0ed2b2eed832423e9204f22
+Merge: 0ce75b7 97e30f0
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Sat Oct 26 20:17:33 2024 +0100
+
+    Merge pull request #2 from bshreya15/practical06
+    
+    matrix multiplication code
+
+commit 97e30f0dd20a361d47bfc7c42edba1897877410c
+Author: bshreya15 <i.bakshi.shreya@gmail.com>
+Date:   Sat Oct 26 20:15:46 2024 +0100
+
+    matrix multiplication code
+
+commit 0ce75b70b3717dade027f5a03ac64e15e6592698
+Merge: 6f97825 90104fa
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Tue Oct 22 19:41:29 2024 +0100
+
+    Merge pull request #1 from bshreya15/practical05
+    
+    Practical05
+
+commit 90104fa3fa126e24cd158fcb612e19c3718ae3db
+Author: bshreya15 <i.bakshi.shreya@gmail.com>
+Date:   Tue Oct 22 19:40:08 2024 +0100
+
+    practical05 arctan.c
+
+commit 05fa7566530fac6daf398abb62dfe15b38515a04
+Author: bshreya15 <i.bakshi.shreya@gmail.com>
+Date:   Tue Oct 22 18:53:07 2024 +0100
+
+    code - fibonacci file
+
+commit 6f978259a5c8ae2d442c0803408eadfbd3288422
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Tue Oct 22 17:09:54 2024 +0100
+
+    fixed compile err
+
+commit 6859e75768a6932f2f6ff16918ad9dec8bc1123e
+Author: bshreya15 <i.bakshi.shreya@gmail.com>
+Date:   Mon Oct 21 16:33:08 2024 +0100
+
+    practical04 file
+
+commit f92c3f559d7f570f4586baeed32bc45f80a4e204
+Author: bshreya15 <i.bakshi.shreya@gmail.com>
+Date:   Mon Oct 21 16:32:18 2024 +0100
+
+    code clean & correction
+
+commit fe07b1d679df33dfc96752a1ea9b2b87e6379d77
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Mon Oct 7 22:34:12 2024 +0100
+
+    prac03 soln
+
+commit 305bc9f6a931053f1b540c9e713281f029e7987d
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Mon Oct 7 22:13:28 2024 +0100
+
+    prac01 and prac02 soln
+
+commit e19d00ceddc6b900ab77e001d467ea0c2a5a1144
+Author: Shreya Bakshi <i.bakshi.shreya@gmail.com>
+Date:   Mon Oct 7 22:12:25 2024 +0100
+
+    prac01 and prac02 soln
