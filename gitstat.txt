@@ -1,18 +1,9 @@
 On branch review-2
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-	modified:   README.md
-	modified:   practical01/README.md
-	modified:   practical02/README.md
-	modified:   practical03/README.md
-	modified:   practical04/README.md
-	modified:   practical06/README.md
-	new file:   practical09/README.md
-	renamed:    practical09/main_stub.c -> practical09/main.c
+Your branch is up to date with 'origin/review-2'.
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
-	modified:   gitlog.txt
 	modified:   gitstat.txt
 
+no changes added to commit (use "git add" and/or "git commit -a")
