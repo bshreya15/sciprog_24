@@ -8,3 +8,7 @@ This program file helps in finding the values of tan(x) where x is in radians in
 3. Compute tan(x), store in the array.
 4. Create a function/subroutine that calculates the area under the curve of tan(x)from 0→60 degrees using the Trapezoidal Rule.
 5. Compile with “-lm” . This will ensure the tan function is available.
+
+# Compilation and Execution:
+$gcc -o trap trap.c -lm <br>
+./trap

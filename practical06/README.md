@@ -12,3 +12,12 @@ This program file helps in finding the matrix multiplication of two matrices.
 In this folder we implement the same matrix multiplication as above.<br>
 The main intension is to separate the matmult function from main file.<br>
 To keep the code and logic clean<br>
+
+# Compilation and Execution:
+$gcc -o matmult matmult.c -lm <br>
+./matmult
+
+# Compilation and Execution in Folder Step 6:
+$gcc -c main.c
+$gcc -c matMul.c
+$gcc -o matMultC main.o matMul.o

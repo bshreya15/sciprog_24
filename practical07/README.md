@@ -17,3 +17,10 @@ This program file helps in implementing Basic C Pointers and dynamic memory allo
 3. Write a function printarray() that takes a pointer to an array of integers and prints its elements on screen.
 4. Write a function to free the allocated memory.
 5. Call all these functions into a main block. Run with different array size
+
+
+# Compilation and Execution:
+$gcc -o e e.c -lm <br>
+./e
+$gcc -o pointer pointer.c <br>
+./pointer
