@@ -20,3 +20,9 @@ This program file helps in finding the fibonacci series using pointers.
 2. Create a function to calculate fibonacci elements.
 3. Apply loop to call this function upto n times.
 4. Print fibonacci series.
+
+# Compilation and Execution:
+$gcc -o arctan arctan.c -lm <br>
+./arctan
+$gcc -o fib fib.c <br>
+./fib

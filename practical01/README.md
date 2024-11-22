@@ -11,3 +11,9 @@ This program file helps in understanding of how to store user input into variabl
 Apply check if two numbers are not provided by user.<br>
 Apply check if numbers are not positive.<br>
 Apply logical if statement to decide whether provided input is even or odd. <br>
+
+# Compilation and Execution:
+$gcc -o print printing.c <br>
+./print
+$gcc -o scan scanning.c <br>
+./scan

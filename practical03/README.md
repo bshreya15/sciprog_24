@@ -14,3 +14,7 @@ $$ \int_0^{\frac{\pi}{3}} tan(x) , dx = log(2)$$
 5. Add that sum to that of the end points and multiply by (b−a)/2N.
 6. Compare this against log(2) you should not be too far out.
 7. Compile with “-lm” . This will ensure the tan function is available.
+
+# Compilation and Execution:
+$gcc -o area area.c -lm <br>
+./area

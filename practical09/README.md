@@ -12,3 +12,7 @@ This program file helps to find if a matrix stored in text file is a magic matri
 6. Note that you will need to read in the sizenof the matrix first, before reading in the elements.
 7. You can arrange the input how you want in the file,as long as it is read in correctly.
 8. Check to see if it is magic
+
+# Compilation and Execution:
+$gcc -o main main.c <br>
+./main
